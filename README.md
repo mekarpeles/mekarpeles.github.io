@@ -1,4 +1,0 @@
-michaelkarpeles.com
-===================
-
-personal blog
